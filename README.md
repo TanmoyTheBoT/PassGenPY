@@ -9,6 +9,12 @@ This tool, a password generator created by TanmoyTheBoT, has three password stre
   <img src="https://img.shields.io/github/stars/TanmoyTheBoT/passgenpy?style=for-the-badge">
   <img src="https://img.shields.io/github/issues/TanmoyTheBoT/passgenpy?color=red&style=for-the-badge">
   <img src="https://img.shields.io/github/forks/TanmoyTheBoT/passgenpy?color=teal&style=for-the-badge">
+  
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Author-TanmoyTheBoT-blue?style=flat-square">
+
 </p>
 ##Credits
 
