@@ -1,4 +1,7 @@
-### passgenpy
+### PassGenPy
+This tool, a password generator created by TanmoyTheBoT, has three password strength settings: weak, medium, and easy to use.
+<br><br>
+<img src="banner.png" >
 
 
 ##Credits
