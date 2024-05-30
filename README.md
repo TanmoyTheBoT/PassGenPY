@@ -18,7 +18,7 @@ This tool, a password generator created by TanmoyTheBoT, has three password stre
 </p>
 
 # Download
-- <a href="https://github.com/InferiorAK/PDFGuti/releases/download/PDFGuti_v1.1.2/pdf_guti.v1.1.2.exe">PassGenPY.v1.0.0.exe
+- <a href="https://github.com/TanmoyTheBoT/passgenpy/releases/download/v1.0.0/PassGenPY.v1.0.0.exe">PassGenPY.v1.0.0.exe
 </a>
 
 
